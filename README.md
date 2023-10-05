@@ -1,9 +1,8 @@
-# Welcome to Public Torrents Collection Repository
-
 > **Disclaimer**: We do not endorse or encourage piracy, illegal distribution, or copyright infringement in any form. While we provide access to publicly available torrents for personal use within this private repository, we strongly urge users to respect copyright laws. If you can afford it, please consider purchasing copyrighted materials to support the creators and artists who work hard to produce the content you enjoy. Responsible consumption of digital media not only helps creators thrive but also contributes to a healthy and sustainable creative ecosystem.
 
+# Welcome to Public Torrents Collection Repository
 
-##  Torrent
+### What is Torrent ?
 
 **Torrents** are a popular method for peer-to-peer (P2P) file sharing on the internet. They enable users to distribute and download files efficiently by breaking them into smaller pieces and allowing multiple users to share these pieces simultaneously. Torrents rely on a decentralized network of users, known as "seeders" and "leechers," to share files without the need for a central server.
 

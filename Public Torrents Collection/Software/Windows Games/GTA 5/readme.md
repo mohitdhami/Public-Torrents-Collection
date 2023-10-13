@@ -1,0 +1,11 @@
+## Grand Theft Auto V System Requirements (Minimum)
+- CPU: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
+- CPU SPEED: Info
+- RAM: 8 GB
+- VIDEO CARD: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
+- DEDICATED VIDEO RAM: 1 GB
+- PIXEL SHADER: 4.0
+- VERTEX SHADER: 4.0
+- OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2*
+- FREE DISK SPACE: 72 GB
+- SOUND CARD: 100% DirectX 10 compatible

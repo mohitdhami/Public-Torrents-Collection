@@ -1,0 +1,13 @@
+## Prince of Persia: The Two Thrones Recommended Requirements
+- CPU: Pentium 4 or AMD Athlon XP
+- CPU SPEED: 1.5 GHz
+- RAM: 512 MB
+- VIDEO CARD: 128 MB DirectX 9.0c compliant video card (NVIDIA GeForce3+ / ATI Radeon 7500+)
+- TOTAL VIDEO RAM: 128 MB
+- 3D: Yes
+- HARDWARE T&L: Yes
+- DIRECTX VERSION: DirectX 9.0c (included on disk)
+- OS: Windows 2000/XP (only)
+- FREE DISK SPACE: 1.5 GB
+- SOUND CARD: Yes
+- CD-ROM: 32x or faster or 4x DVD-ROM

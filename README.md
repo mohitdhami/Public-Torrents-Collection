@@ -4,17 +4,19 @@
 
 ### What is Torrent ?
 
-**Torrents** are a popular method for peer-to-peer (P2P) file sharing on the internet. They enable users to distribute and download files efficiently by breaking them into smaller pieces and allowing multiple users to share these pieces simultaneously. Torrents rely on a decentralized network of users, known as "seeders" and "leechers," to share files without the need for a central server.
-
-> "Torrents are a decentralized file-sharing method that allows users to distribute and download files efficiently. They work by breaking files into smaller pieces and leveraging a network of users to share these pieces, making it a popular and efficient way to share large files over the internet."
+**Torrents** are a popular decentralized file-sharing  method for peer-to-peer (P2P) file sharing on the internet. They enable users to distribute and download files efficiently by breaking them into smaller pieces and allowing multiple users to share these pieces simultaneously. Torrents rely on a decentralized network of users, known as "seeders" and "leechers," to share files without the need for a central server.
 
 ## Terminologies
 
 **Torrent Files:** Torrent files are small metadata files containing information about the files and folders you want to download via the BitTorrent protocol. They typically have a ".torrent" file extension. These files don't contain the actual content but rather details like file names, sizes, and the structure of the data you want to download.
 
-**Torrent Client:** A torrent client is software that allows you to open and use torrent files to download the associated content. It connects to the BitTorrent network, communicates with other users (peers), and manages the downloading and uploading of data. Some popular torrent clients include µTorrent, BitTorrent, qBittorrent, and Deluge.
+**Torrent Client:** A torrent client is software that allows you to open and use torrent files to download the associated content. It connects to the BitTorrent network, communicates with other users (peers), and manages the downloading and uploading of data. Some popular torrent clients include
+| µTorrent | BitTorrent | Deluge |  qBittorrent | Vuze | BitComet | Transmission |
+|--|--|--|--|--|--|--|
 
-**Types of Torrents:** There are various types of torrents categorized based on the content they distribute:
+
+**Types of Torrents:**
+ There are various types of torrents categorized based on the content they distribute:
 
 1.  **Public Torrents:** These torrents are openly available and can be accessed by anyone. They often include legal content like open-source software, public domain books, or files shared with the copyright holder's permission.
     
@@ -42,7 +44,7 @@ Using a **VPN (Virtual Private Network)** in conjunction with torrents can offer
     
 -   **Torrent-Friendly VPN:** Choose a VPN service that supports P2P file sharing and doesn't log your torrenting activities for the best torrenting experience.
 
+<br>
+Thank you for visiting our repository 💙
 
->This repository is designed to provide a curated collection of publicly available torrents for personal use. We encourage responsible and legal torrenting practices, respecting copyright laws and supporting content creators when possible. Remember that the legality of torrenting can vary by jurisdiction, so always stay informed about and comply with your local regulations. 
-
-Thank you for using this repository responsibly and enjoy the content within it.
+Happy Journey 🚀
